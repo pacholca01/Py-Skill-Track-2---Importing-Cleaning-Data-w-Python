@@ -1,0 +1,7 @@
+time,,day,day,night,night
+feature,,text messages,total GB,text messages,total GB
+state,city,,,,
+California,Los Angeles,20,5,30,10
+California,San Francisco,40,5,100,5
+New York,New York,50,2,20,9
+Ohio,Cleveland,100,3,40,6

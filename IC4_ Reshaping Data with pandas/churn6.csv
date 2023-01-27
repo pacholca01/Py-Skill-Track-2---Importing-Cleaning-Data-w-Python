@@ -1,0 +1,13 @@
+state,international_plan,voice_mail_plan,churn,total_day_calls,total_night_calls
+LA,No,No,FALSE,106.8181818,96.90909091
+LA,No,No,TRUE,100,119
+LA,No,Yes,FALSE,100,84.25
+NY,No,No,FALSE,90.9,100.8
+NY,No,No,TRUE,95,101.5
+NY,No,Yes,FALSE,115,121
+NY,Yes,No,FALSE,109,99
+NY,Yes,No,TRUE,87,113
+LA,Yes,No,FALSE,78,90
+LA,Yes,No,TRUE,69,104
+NY,Yes,Yes,FALSE,120,78
+LA,Yes,Yes,FALSE,71,101

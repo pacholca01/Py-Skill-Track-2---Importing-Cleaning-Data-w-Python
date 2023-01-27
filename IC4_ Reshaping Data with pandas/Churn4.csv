@@ -1,0 +1,7 @@
+time,type,exited,minutes,calls,charge
+day,International,churn,184.5,97,31.37
+day,National,churn,129.1,137,21.95
+night,International,churn,332.9,67,56.59
+night,National,no churn,110.4,103,18.77
+eve,International,no churn,119.3,117,20.28
+eve,National,no churn,137.1,88,23.31

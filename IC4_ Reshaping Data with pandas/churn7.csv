@@ -1,0 +1,5 @@
+type,total_day_calls,total_night_calls,total_night_calls
+scope,international,international,national
+LA,23,30,
+NY,8,34,24
+CA,8,34,24
